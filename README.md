@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Irewle
+- 👋 Hi, I’m Irewole
 - 👀 I’m a PHP developer | ALX trainee:Full stack Software Developer (In view)
-
+- Software developed: Accounting management system | School management system |Admission processing system
 
 
 <!---
